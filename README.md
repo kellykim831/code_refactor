@@ -20,7 +20,7 @@ You will need to download the following programs to view/edit this site:
 
 ## Deployed Link
 
-* [See Live Site](file:///C:/Users/Kelly%20Kim/Desktop/homework/code_refactor/index.html)
+* [See Live Site](https://kellykim831.github.io/code_refactor/)
 
 
 ## Authors
